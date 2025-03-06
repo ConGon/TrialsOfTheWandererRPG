@@ -42,8 +42,8 @@ ApollyonEncounter = 100
 playerData = {
     "Stats":{
         "Health": 100,
-        "Attack": 1000,
-        "Defence": 1000, 
+        "Attack": 1,
+        "Defence": 1, 
         "Agility": 5,
         "Level": 0,
         "Exp": 0,
